@@ -38,3 +38,11 @@ Un sistema de reserva de mesa en el restaurante, mediante el cual el cliente pue
    -Contacto
    
 •	Autores del proyecto.
+
+-Carolina González Juarez 
+
+-Sebastián Sánchez
+
+-Michael Gonzales
+
+-Miguel Trubiano
