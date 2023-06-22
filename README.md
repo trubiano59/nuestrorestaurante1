@@ -14,7 +14,7 @@ El primer paso de este proyecto debe ser convertir el menú descrito por el clie
 
 •	Tecnologías utilizadas;
 
-La lógica del proyecto la implemete completamente en JavaScript, HTML y CSS y empaquetada de manera automatizada. 
+La lógica del proyecto la implemete completamente en JavaScript, HTML y CSS y empaquetada de manera automatizada y funcionalmente responsive para que pueda ser vista en los distintos dispositivos. 
 
 El proyecto será entregado subiendo mi código a GitHub (commit/push) y la interfaz será desplegada usando GitHub pages u otro servicio de hosting que se pueda haber encontrado en el camino.
 
