@@ -1,11 +1,14 @@
 # nuestrorestaurante1
+
+•	Implementador de esta parte:  Miguel Angel Trubiano
+
 •	Descripción de su proyecto;
 Esta es la creación de una pagina para nuestro restaurante.
-
-
+El mismo lo desarrolle con Html, Css y Javascript
 
 •	funcionalidades;
-Sitio web del restaurante
+
+Las funcionalidades del sitio web del restaurante:
 Este sitio web le proporciona un registro para el restaurante y una variedad de deliciosos platos para mirar y ordenar el que les pareció delicioso e interesante. También pueden echar un vistazo al interior de nuestro restaurante y reservar una mesa para vivir una experiencia maravillosa allí
 
 •	Cómo pueden usarlo los usuarios;
