@@ -5,6 +5,7 @@
 •	Descripción del proyecto;
 Esta es la creación de una pagina web para nuestro restaurante.
 El mismo lo desarrolle con Html, Css y Javascript
+El primer paso de este proyecto debe ser convertir el menú descrito por el cliente en una estructura que podamos poner en un archivo JSON para después pintar en la pantalla.
 
 •	funcionalidades;
 
