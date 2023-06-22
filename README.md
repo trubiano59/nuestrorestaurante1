@@ -16,6 +16,8 @@ El primer paso de este proyecto debe ser convertir el menú descrito por el clie
 
 El mismo lo desarrolle con Html, Css y Javascript
 
+El proyecto será entregado subiendo mi código a GitHub (commit/push) y la interfaz será desplegada usando GitHub pages u otro servicio de hosting que se pueda haber encontrado en el camino.
+
 •	funcionalidades;
 
 Las funcionalidades del sitio web del restaurante es que le proporciona un registro para el restaurante y una variedad de deliciosos platos para mirar y ordenar el que les pareció delicioso e interesante solicitandolo en el local o poder pedirlo por delibery. También pueden echar un vistazo al interior de nuestro restaurante y reservar una mesa para vivir una experiencia maravillosa allí
