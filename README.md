@@ -29,12 +29,12 @@ Un sistema de reserva de mesa en el restaurante, mediante el cual el cliente pue
 
 •	Caracteristicas de Paginas Utilizadas en el proyecto
 
-   Index
-   Carta
-   Sucursales
-   Blog
-   BuscadordeComidas
-   Nosotros
-   Contacto
+   -Index
+   -Carta
+   -Sucursales
+   -Blog
+   -BuscadordeComidas
+   -Nosotros
+   -Contacto
    
 •	Autores del proyecto.
