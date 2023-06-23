@@ -10,7 +10,8 @@ El primer paso de este proyecto debe ser convertir el menú descrito por el clie
 
 •	Título e imagen de portada;
 
-
+ 
+El video utilizado se encuentra en el index junto con la galeria de imagenes
 
 •	Tecnologías utilizadas;
 
