@@ -44,10 +44,10 @@ Un sistema de reserva de mesa en el restaurante, mediante el cual el cliente pue
    
 •	Autores del proyecto.
 
--Carolina González Juarez 
+-Carolina González Juarez No participo
 
--Sebastián Sánchez
+-Sebastián Sánchez    No  participo
 
--Michael Gonzales
+-Michael Gonzales   No participo
 
--Miguel Trubiano
+-Miguel Trubiano    Desarrollada esta parte toda por mi
