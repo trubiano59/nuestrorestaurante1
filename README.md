@@ -2,6 +2,9 @@
 
 •	Implementador de esta parte:  Miguel Angel Trubiano (DNI: 10564273)
 
+Este es el Trabajo Práctico Obligatorio de Desarrollo Web HTML, CSS y Javascript (TPO) realizado por el grupo 10 de la comisión 23032, del curso FullStack Python para 
+Front End correspondiente al programa de enseñanza en Programación Codo a Codo (4.0). La temática elegida fue la elaboración de una página web para un restaurante con el servicio en el mismo y con un delibery en forma presencial y a domicilio.
+
 •	Descripción del proyecto;
 
 Esta es la creación de una pagina web para nuestro restaurante.
@@ -12,7 +15,6 @@ El primer paso de este proyecto debe ser convertir el menú descrito por el clie
 
 •	Título e imagen de portada;
 
- 
 El video utilizado se encuentra en el index junto con la galeria de imagenes
 
 •	Tecnologías utilizadas;
