@@ -1,10 +1,12 @@
 # nuestrorestaurante1
 
-•	Implementador de esta parte:  Miguel Angel Trubiano
+•	Implementador de esta parte:  Miguel Angel Trubiano (DNI: 10564273)
 
 •	Descripción del proyecto;
 
 Esta es la creación de una pagina web para nuestro restaurante.
+
+El rol que cumpli fue el siguiente:
 El mismo lo desarrolle con Html, Css y Javascript
 El primer paso de este proyecto debe ser convertir el menú descrito por el cliente en una estructura que podamos poner en un archivo JSON para después pintar en la pantalla.
 
